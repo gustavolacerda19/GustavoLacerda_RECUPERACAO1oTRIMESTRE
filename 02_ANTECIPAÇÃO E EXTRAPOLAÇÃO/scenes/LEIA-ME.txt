@@ -1,0 +1,9 @@
+Olá professor,
+
+Estou escrevendo isto para esclarecer a razão de ter um puppet.10.blend na pasta scenes, mesmo que ele também já esteja na pasta assets.
+Acontece que mesmo com o puppet em assets, as animações das segunda e terceira situações pareciam não ter o puppet, mesmo que todos os bones
+e estruturas do puppet estavam lá. A única solução que achei foi colocar um puppet.10.blend na mesma pasta. Acredito que houve algum descuido
+da minha parte ao criar as atividades no Blender e me desculpo por isso; mas espero que entenda porque tive de usar uma estrutura diferente
+nas pastas do que havia sido orientado.
+
+Gustavo Lacerda
